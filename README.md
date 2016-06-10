@@ -16,5 +16,5 @@ Opens the current file in an explorer
 
 ## Copy File Path
 This copies the currently open file to the clipboard.
-Note: This add-on requires Powershell v5 (This version made Set-Clipboard cmdlet available)
+
 
